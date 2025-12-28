@@ -1,5 +1,6 @@
 # 💫 About Me:
 Graduate Computer Science student at the University of Wisconsin,Milwaukee (May 2026) with industry experience as an SAP BASIS Consultant at LTIMindtree.<br>Strong background in backend development, enterprise systems, and automation, with hands on experience managing large scale production environments.<br>Worked on projects spanning cybersecurity, scam/fraud detection, image processing, and web applications, using Python, Java, Docker, and databases.<br>Experienced in building end to end pipelines, troubleshooting system level issues, and delivering reliable, well documented solutions.<br>Actively seeking software engineering and backend focused roles where I can apply both industry and research driven skills.
+
 ---
 
 # 🌐 Socials:
