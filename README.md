@@ -58,7 +58,6 @@ I am a technical professional with over 2 years of industry experience in **SAP 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Atharva9421&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=Atharva9421&icon=3&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
