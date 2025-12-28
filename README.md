@@ -5,7 +5,7 @@ I am a technical professional with over 2 years of industry experience in **SAP 
 
 ---
 
-#💼 Professional Experience
+# 💼 Professional Experience
 
 **🎓 University of Wisconsin Milwaukee** | *Desktop Support Technician* | **Feb 2024 – May 2026**
 * Provide hands-on technical support for Windows/macOS and manage Active Directory (AD) tasks.
