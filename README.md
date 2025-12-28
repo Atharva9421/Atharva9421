@@ -1,8 +1,8 @@
 # 💫 About Me:
 Graduate Computer Science student at the University of Wisconsin,Milwaukee (May 2026) with industry experience as an SAP BASIS Consultant at LTIMindtree.<br>Strong background in backend development, enterprise systems, and automation, with hands on experience managing large scale production environments.<br>Worked on projects spanning cybersecurity, scam/fraud detection, image processing, and web applications, using Python, Java, Docker, and databases.<br>Experienced in building end to end pipelines, troubleshooting system level issues, and delivering reliable, well documented solutions.<br>Actively seeking software engineering and backend focused roles where I can apply both industry and research driven skills.
+---
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/atharva.vaishnav.9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-vaishnav/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva.vaishnav43@gmail.com) 
 
 # 💻 Tech Stack:
