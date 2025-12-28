@@ -1,8 +1,51 @@
 # 💫 About Me:
+# **SAP BASIS Consultant | Full-Stack Developer | Graduate Student @ UW-Milwaukee**
 Graduate Computer Science student at the University of Wisconsin,Milwaukee (May 2026) with industry experience as an SAP BASIS Consultant at LTIMindtree.<br>Strong background in backend development, enterprise systems, and automation, with hands on experience managing large scale production environments.<br>Worked on projects spanning cybersecurity, scam/fraud detection, image processing, and web applications, using Python, Java, Docker, and databases.<br>Experienced in building end to end pipelines, troubleshooting system level issues, and delivering reliable, well documented solutions.<br>Actively seeking software engineering and backend focused roles where I can apply both industry and research driven skills.
+I am a technical professional with over 2 years of industry experience in **SAP BASIS** and **System Administration**, currently pursuing my Master's at the **University of Wisconsin-Milwaukee**. My expertise lies at the intersection of complex infrastructure management, web development, and data-driven security research.
 
 ---
 
+#💼 Professional Experience
+
+**🎓 University of Wisconsin Milwaukee** | *Desktop Support Technician* | **Feb 2024 – May 2026**
+* Provide hands-on technical support for Windows/macOS and manage Active Directory (AD) tasks.
+* Handle device provisioning and management using Microsoft Endpoint Configuration Manager (SCCM).
+* Document technical solutions to improve troubleshooting efficiency for faculty and staff.
+
+**🏢 LTIMindtree** | *SAP BASIS Consultant* | **Nov 2021 – May 2024**
+* Managed high-availability SAP landscapes (Oracle, HANA, PLM) and resolved P1–P4 ServiceNow tickets.
+* **Innovation:** Developed automation scripts and internal web tools to streamline performance monitoring.
+* Executed system installations, configurations, and patch validations to maintain operational integrity.
+
+---
+
+# 🔬 Featured Projects
+
+# ScamMagnifier – Fraudulent E-commerce Detection
+* **Description:** Reproduced the USENIX Security 2022 paper to detect scam web stores.
+* **Tech:** Python, Selenium, Docker, MongoDB.
+* **Outcome:** Automated site classification with 80% accuracy using heuristic analysis.
+
+# Clinical Report Similarity Finder
+* **Description:** Built a text-based retrieval system for identifying similar clinical notes.
+* **Tech:** Python, TF-IDF, BM25, Clinical-BERT, PCA/t-SNE.
+* **Outcome:** Enhanced search efficiency and interpretability of medical data through embedding-based similarity.
+
+# Medical Image Segmentation & Deblurring
+* **Description:** Implemented motion deblurring and Otsu threshold-based segmentation.
+* **Tech:** MATLAB, Wiener Filter, PSNR, SSIM.
+* **Outcome:** Achieved a 20% improvement in segmentation accuracy over baseline methods.
+
+# Student Result Management System
+* **Description:** Full-stack web application for automating academic record handling.
+* **Tech:** PHP, JavaScript, MySQL.
+* **Outcome:** Reduced manual processing time by 50%.
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/atharva.vaishnav.9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-vaishnav/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharva.vaishnav43@gmail.com) 
 
