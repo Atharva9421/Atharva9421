@@ -6,13 +6,12 @@ I am a technical professional with over 2 years of industry experience in **SAP 
 ---
 
 #  Professional Experience:
-
-#** University of Wisconsin Milwaukee** | *Desktop Support Technician* | **Feb 2024 – May 2026**
+** University of Wisconsin Milwaukee** | *Desktop Support Technician* | **Feb 2024 – May 2026**
 * Provide hands-on technical support for Windows/macOS and manage Active Directory (AD) tasks.
 * Handle device provisioning and management using Microsoft Endpoint Configuration Manager (SCCM).
 * Document technical solutions to improve troubleshooting efficiency for faculty and staff.
 
-#** LTIMindtree** | *SAP BASIS Consultant* | **Nov 2021 – May 2024**
+** LTIMindtree** | *SAP BASIS Consultant* | **Nov 2021 – May 2024**
 * Managed high-availability SAP landscapes (Oracle, HANA, PLM) and resolved P1–P4 ServiceNow tickets.
 * **Innovation:** Developed automation scripts and internal web tools to streamline performance monitoring.
 * Executed system installations, configurations, and patch validations to maintain operational integrity.
