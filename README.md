@@ -1,4 +1,4 @@
-## **🚀 Hi, I'm Atharva Pradeep Vaishnav!**
+# **🚀 Hi, I'm Atharva Pradeep Vaishnav!**
 # About Me:
 ## **SAP BASIS Consultant | Full-Stack Developer | Graduate Student @ UW-Milwaukee**
 Graduate Computer Science student at the University of Wisconsin,Milwaukee (May 2026) with industry experience as an SAP BASIS Consultant at LTIMindtree.<br>Strong background in backend development, enterprise systems, and automation, with hands on experience managing large scale production environments.<br>Worked on projects spanning cybersecurity, scam/fraud detection, image processing, and web applications, using Python, Java, Docker, and databases.<br>Experienced in building end to end pipelines, troubleshooting system level issues, and delivering reliable, well documented solutions.<br>Actively seeking software engineering and backend focused roles where I can apply both industry and research driven skills.
@@ -8,12 +8,12 @@ I am a technical professional with over 2 years of industry experience in **SAP 
 
 ## Professional Experience
 
-**🎓 University of Wisconsin Milwaukee** | *Desktop Support Technician* | **Feb 2024 – May 2026**
+**University of Wisconsin Milwaukee** | *Desktop Support Technician* | **Feb 2024 – May 2026**
 * Provide hands-on technical support for Windows/macOS and manage Active Directory (AD) tasks.
 * Handle device provisioning and management using Microsoft Endpoint Configuration Manager (SCCM).
 * Document technical solutions to improve troubleshooting efficiency for faculty and staff.
 
-**🏢 LTIMindtree** | *SAP BASIS Consultant* | **Nov 2021 – May 2024**
+**LTIMindtree** | *SAP BASIS Consultant* | **Nov 2021 – May 2024**
 * Managed high-availability SAP landscapes (Oracle, HANA, PLM) and resolved P1–P4 ServiceNow tickets.
 * **Innovation:** Developed automation scripts and internal web tools to streamline performance monitoring.
 * Executed system installations, configurations, and patch validations to maintain operational integrity.
