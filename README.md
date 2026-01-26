@@ -1,5 +1,5 @@
 # **🚀 Hi, I'm Atharva Pradeep Vaishnav!**
-<img src="assets/Working_Employee.gif" width="300" />
+<center><img src="assets/Working_Employee.gif" width="300" /></center>
 
 # About Me:
 ## **SAP BASIS Consultant | Full-Stack Developer | Graduate Student @ UW-Milwaukee**
