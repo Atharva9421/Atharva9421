@@ -1,6 +1,6 @@
 <h1>👋 Hello, I'm Atharva Pradeep Vaishnav! </h1>
 <p align="center">
-  <img src="assets/Working_Employee.gif" width="300" />
+  <img src="assets/Working_Employee.gif" width="330" />
 </p>
 <p align="center">
 Full-Stack Developer | Desktop Support Technician | Desktop Support Technician | AI/ML Systems Engineer | Graduate Student @ UWM
