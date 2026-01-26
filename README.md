@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Atharva Pradeep Vaishnav! </h1>
+<h1>👋 Hello, I'm Atharva Pradeep Vaishnav! </h1>
 <p align="center">
   <img src="assets/Working_Employee.gif" width="350" />
 </p>
