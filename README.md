@@ -1,9 +1,9 @@
-<h1 align="center">Hello, I'm Atharva Pradeep Vaishnav!</h1>
+<h1 align="center">👋 Hello, I'm Atharva Pradeep Vaishnav! </h1>
 <p align="center">
   <img src="assets/Working_Employee.gif" width="350" />
 </p>
 <p align="center">
-SAP BASIS Consultant | Full-Stack Developer | Graduate Student @ UWM
+Full-Stack Developer | AI/ML Systems Engineer | Desktop Support Technician | Graduate Student @ UWM
 </p>
 
 # About Me:
