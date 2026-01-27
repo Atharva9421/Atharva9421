@@ -13,7 +13,7 @@ I am a technical professional with over 2 years of industry experience in **SAP 
 
 ---
 
-## Professional Experience
+# Professional Experience
 
 **University of Wisconsin Milwaukee** | *Desktop Support Technician* | **Feb 2024 – May 2026**
 * Provide hands-on technical support for Windows/macOS and manage Active Directory (AD) tasks.
@@ -24,30 +24,6 @@ I am a technical professional with over 2 years of industry experience in **SAP 
 * Managed high-availability SAP landscapes (Oracle, HANA, PLM) and resolved P1–P4 ServiceNow tickets.
 * **Innovation:** Developed automation scripts and internal web tools to streamline performance monitoring.
 * Executed system installations, configurations, and patch validations to maintain operational integrity.
-
----
-
-#  Featured Projects:
-
- **ScamMagnifier – Fraudulent E-commerce Detection**
-* **Description:** Reproduced the USENIX Security 2022 paper to detect scam web stores.
-* **Tech:** Python, Selenium, Docker, MongoDB.
-* **Outcome:** Automated site classification with 80% accuracy using heuristic analysis.
-
- **Clinical Report Similarity Finder**
-* **Description:** Built a text-based retrieval system for identifying similar clinical notes.
-* **Tech:** Python, TF-IDF, BM25, Clinical-BERT, PCA/t-SNE.
-* **Outcome:** Enhanced search efficiency and interpretability of medical data through embedding-based similarity.
-
- **Medical Image Segmentation & Deblurring**
-* **Description:** Implemented motion deblurring and Otsu threshold-based segmentation.
-* **Tech:** MATLAB, Wiener Filter, PSNR, SSIM.
-* **Outcome:** Achieved a 20% improvement in segmentation accuracy over baseline methods.
-
- **Student Result Management System**
-* **Description:** Full-stack web application for automating academic record handling.
-* **Tech:** PHP, JavaScript, MySQL.
-* **Outcome:** Reduced manual processing time by 50%.
 
 ---
 
