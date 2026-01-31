@@ -7,8 +7,7 @@ Full-Stack Developer | Desktop Support Technician | Desktop Support Technician |
 </p>
 
 # About Me:
-Graduate Computer Science student at the University of Wisconsin,Milwaukee (May 2026) with industry experience as an SAP BASIS Consultant at LTIMindtree.<br>Strong background in backend development, enterprise systems, and automation, with hands on experience managing large scale production environments.<br>Worked on projects spanning cybersecurity, scam/fraud detection, image processing, and web applications, using Python, Java, Docker, and databases.<br>Experienced in building end to end pipelines, troubleshooting system level issues, and delivering reliable, well documented solutions.<br>Actively seeking software engineering and backend focused roles where I can apply both industry and research driven skills.
-I am a technical professional with over 2 years of industry experience in **SAP BASIS** and **System Administration**, currently pursuing my Master's at the **University of Wisconsin-Milwaukee**. My expertise lies at the intersection of complex infrastructure management, web development, and data-driven security research.
+Master’s student in Computer Science at the University of Wisconsin–Milwaukee (May 2026) with prior industry experience in SAP BASIS and enterprise system administration. My background includes backend development, web applications, and automation through academic and project work. I am interested in transitioning into full-stack software engineering roles that combine backend systems with user-facing development.
 
 ---
 #  Featured Projects:
