@@ -3,7 +3,7 @@
   <img src="assets/Working_Employee.gif" width="330" />
 </p>
 <p align="center">
-Full-Stack Developer | Desktop Support Technician | Desktop Support Technician | AI/ML Systems Engineer | Graduate Student @ UWM
+Full-Stack Developer | Desktop Support Technician | SAP BASIS Consultant | AI/ML Systems Engineer | Graduate Student @ UWM
 </p>
 
 # About Me:
