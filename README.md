@@ -35,15 +35,29 @@ Master’s student in Computer Science at the University of Wisconsin–Milwauke
 ---
 # Professional Experience
 
-**University of Wisconsin Milwaukee** | *Desktop Support Technician* | **Feb 2024 – May 2026**
-* Provide hands-on technical support for Windows/macOS and manage Active Directory (AD) tasks.
-* Handle device provisioning and management using Microsoft Endpoint Configuration Manager (SCCM).
-* Document technical solutions to improve troubleshooting efficiency for faculty and staff.
+**University of Wisconsin Milwaukee** | *Desktop Support Technician* | **Feb 2025 – May 2026**
+• Provided Tier 1 and Tier 2 technical support for Windows and MacOS systems in an enterprise academic environment. 
+• Diagnosed and resolved hardware, software, and network issues, ensuring minimal downtime for faculty and staff. 
+• Support Active Directory functions including user account access, authentication troubleshooting, and group-based 
+permissions. Assisted in web development tasks for internal portals, improving accessibility and workflow. 
+• Assisted with endpoint provisioning, deployment, and configuration using Microsoft Endpoint Configuration Manager 
+(SCCM/MECM). 
+• Performed software and hardware installations, system updates, configurations, and device imaging across Windows and 
+MacOS devices. Troubleshoot network connectivity issues which included Wi-Fi, LAN, VPN, and authentication services. 
+• Documented incidents, resolutions, and workflows in ticketing systems to support operational efficiency and knowledge 
+management. Collaborated with campus IT teams for issue escalation and service continuity. 
+• Delivered consistent, high-quality technical support and customer service in on-site environments.
 
-**LTIMindtree** | *SAP BASIS Consultant* | **Nov 2021 – May 2024**
-* Managed high-availability SAP landscapes (Oracle, HANA, PLM) and resolved P1–P4 ServiceNow tickets.
-* **Innovation:** Developed automation scripts and internal web tools to streamline performance monitoring.
-* Executed system installations, configurations, and patch validations to maintain operational integrity.
+**LTIMindtree** | *SAP BASIS Consultant* | **Sept 2021 – May 2024**
+• Managed multiple SAP landscapes (Oracle, HANA, IXOS, PLM) ensuring high availability and optimal performance. 
+• Handled ServiceNow SAP tickets (P1–P4), meeting SLA requirements through strong analytical and problem-solving skills. 
+• Performed system installations, configurations, upgrades, and patch validations, maintaining operational integrity. 
+• Conducted regular health checks and performance tuning to sustain service effectiveness. 
+• Developed automation scripts and internal web tools to streamline SAP performance checks and monitoring. 
+• Created web-based documentation and portals for managing system configurations using SharePoint. 
+• Integrated third party web services with SAP systems to enhance usability and efficiency. 
+• Assisted in web development tasks for internal SAP portals, improving accessibility and workflow. 
+• Communicated effectively across teams, handling multiple inquiries simultaneously while maintaining service quality. 
 
 ---
 
