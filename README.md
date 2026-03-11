@@ -12,25 +12,30 @@ Master’s student in Computer Science at the University of Wisconsin–Milwauke
 ---
 #  Featured Projects:
 
- **ScamMagnifier – Fraudulent E-commerce Detection**
+**ScamMagnifier – Fraudulent E-commerce Detection**
 * **Description:** Reproduced the USENIX Security 2022 paper to detect scam web stores.
 * **Tech:** Python, Selenium, Docker, MongoDB.
 * **Outcome:** Automated site classification with 80% accuracy using heuristic analysis.
 
- **Clinical Report Similarity Finder**
+**Clinical Report Similarity Finder**
 * **Description:** Built a text-based retrieval system for identifying similar clinical notes.
 * **Tech:** Python, TF-IDF, BM25, Clinical-BERT, PCA/t-SNE.
 * **Outcome:** Enhanced search efficiency and interpretability of medical data through embedding-based similarity.
 
- **Medical Image Segmentation & Deblurring**
+**Medical Image Segmentation & Deblurring**
 * **Description:** Implemented motion deblurring and Otsu threshold-based segmentation.
 * **Tech:** MATLAB, Wiener Filter, PSNR, SSIM.
 * **Outcome:** Achieved a 20% improvement in segmentation accuracy over baseline methods.
 
- **Student Result Management System**
+**Student Result Management System**
 * **Description:** Full-stack web application for automating academic record handling.
 * **Tech:** PHP, JavaScript, MySQL.
 * **Outcome:** Reduced manual processing time by 50%.
+
+**Retail Supply Chain Analytics Dashboard**
+* **Description:** Built an end-to-end analytics system to forecast retail demand, evaluate forecast accuracy, and simulate supply chain risk using historical Walmart sales data.
+* **Tech:** Python, Prophet, Power BI, React, Vite, DAX.
+* **Outcome:** Achieved 9.44% MAPE (~90.5% forecast accuracy) and implemented an interactive dashboard for demand simulation and inventory stress analysis.
 
 ---
 # Professional Experience
