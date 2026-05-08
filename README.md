@@ -7,7 +7,13 @@ Full-Stack Developer | Desktop Support Technician | SAP BASIS Consultant | AI/ML
 </p>
 
 # About Me:
-Master’s student in Computer Science at the University of Wisconsin–Milwaukee (May 2026) with prior industry experience in SAP BASIS and enterprise system administration. My background includes backend development, web applications, and automation through academic and project work. I am interested in transitioning into full-stack software engineering roles that combine backend systems with user-facing development.
+Computer Science graduate student with professional experience in SAP BASIS, system administration, and enterprise IT operations. Skilled in full-stack development, backend systems, and automation, with hands-on experience building scalable web applications and data-driven solutions.
+
+Proficient in Python, Java, C++, JavaScript, React, Node.js, REST APIs, SQL, and NoSQL databases, along with tools such as Docker, Git, and modern development environments. Strong foundation in data structures, algorithms, operating systems, and software engineering principles.
+
+Experienced in troubleshooting, system monitoring, performance optimization, and incident management in enterprise environments. Proven ability to collaborate across teams, translate requirements into technical solutions, and deliver reliable, maintainable software.
+
+Seeking Software Engineer / Full-Stack Developer roles focused on building scalable systems, APIs, and user-focused applications.
 
 ---
 #  Featured Projects:
@@ -26,11 +32,6 @@ Master’s student in Computer Science at the University of Wisconsin–Milwauke
 * **Description:** Implemented motion deblurring and Otsu threshold-based segmentation.
 * **Tech:** MATLAB, Wiener Filter, PSNR, SSIM.
 * **Outcome:** Achieved a 20% improvement in segmentation accuracy over baseline methods.
-
-**Student Result Management System**
-* **Description:** Full-stack web application for automating academic record handling.
-* **Tech:** PHP, JavaScript, MySQL.
-* **Outcome:** Reduced manual processing time by 50%.
 
 **Retail Supply Chain Analytics Dashboard**
 * **Description:** Built an end-to-end analytics system to forecast retail demand, evaluate forecast accuracy, and simulate supply chain risk using historical Walmart sales data.
